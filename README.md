@@ -1,1 +1,2 @@
-# yelyzavetamahriani-netizen.github.io
+# СraftTools
+Розробники: Магріані Є. Р., Вовченко Е.С., Новікова П. М., Соценко В.О.
